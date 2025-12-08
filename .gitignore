@@ -1,1 +1,3 @@
 .venv
+.venvwsl
+data/MNIST-LeNet5.mat
